@@ -60,6 +60,7 @@ div.menu-navigation-bar{
     background-color: rgb(0, 128, 0);
     top: 80px;
     border-radius: 0.1%;
+    width: 15%;
 }
 
 nav{
@@ -79,4 +80,11 @@ a{
 a:hover{
 text-decoration: none;
 color: #ffffff;
+}
+
+/*MAIN TEXT*/
+
+.maindiv{
+    background-color: #000000;
+    margin-left: 170px;
 }
