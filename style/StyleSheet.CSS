@@ -15,6 +15,11 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+h2 {
+    font-size: 30;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 main {
     text-align: center;
 }
@@ -33,7 +38,6 @@ div.top-bar{
 
 }
 
-
-.margin-top-xtra{
+header.margin-top-xtra{
     margin-top: 150px;
 }
