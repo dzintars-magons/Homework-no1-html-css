@@ -50,7 +50,8 @@ header{
 }
 
 header.margin-top-xtra{
-    margin-top: 150px;
+    margin-top: 70px;
+    margin-bottom: 60px;
 }
 /*MENU NAVIGATION*/
 div.menu-navigation-bar{
@@ -89,3 +90,7 @@ color: #ffffff;
     background-color: #000000;
     margin-left: 280px;
 }
+#fake-div-above-history, #fake-div-above-musical-style, #fake-div-above-achievements, #fake-div-above-discography, #fake-div-above-members{
+    height: 80px;
+}
+
