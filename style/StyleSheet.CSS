@@ -109,6 +109,10 @@ a.green-text{
     text-decoration: solid;
 }
 
+footer{
+    text-align: left;
+}
+
 /* width */
 ::-webkit-scrollbar {
     width: 10px;
