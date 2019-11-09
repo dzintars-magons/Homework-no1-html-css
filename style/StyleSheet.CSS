@@ -100,6 +100,10 @@ color: #ffffff;
     height: 80px;
 }
 
+.padding-left-zero{
+    padding-left: 0;
+}
+
 /* width */
 ::-webkit-scrollbar {
     width: 10px;
