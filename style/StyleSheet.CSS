@@ -11,7 +11,7 @@ color: rgb(0, 128, 0);
 margin: 0}
 
 p{
-    text-align: center;
+    text-align: justify;
     line-height: 24px;
 }
 
@@ -94,7 +94,8 @@ color: #ffffff;
 
 .maindiv{
     background-color: #000000;
-    margin-left: 280px;
+    margin-left: 316px;
+    margin-right: 43px;
 }
 #fake-div-above-history, #fake-div-above-musical-style, #fake-div-above-achievements, #fake-div-above-discography, #fake-div-above-members{
     height: 80px;
@@ -107,6 +108,10 @@ color: #ffffff;
 
 a.green-text{
     text-decoration: solid;
+}
+
+.centered{
+    text-align: center;
 }
 
 footer{
