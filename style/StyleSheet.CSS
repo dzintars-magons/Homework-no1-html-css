@@ -102,6 +102,11 @@ color: #ffffff;
 
 .padding-left-zero{
     padding-left: 0;
+    color: #0cabb6;
+}
+
+a.green-text{
+    text-decoration: solid;
 }
 
 /* width */
