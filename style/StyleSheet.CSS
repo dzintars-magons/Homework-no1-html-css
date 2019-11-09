@@ -13,7 +13,8 @@ margin: 0}
 
 p{
     text-align: justify;
-    line-height: 24px;
+    line-height: 33px;
+    font-size: 20px;
 }
 
 
@@ -27,6 +28,10 @@ h1 {
 h2 {
     font-size: 32px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    font-size: 27px;
 }
 
 main {
