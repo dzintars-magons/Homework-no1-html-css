@@ -75,6 +75,11 @@ ul{
     list-style: none;
 }
 
+ol{
+    margin: auto;
+    width: 268px;
+    text-align: left;
+}
 a{
     text-decoration: none;
     color: #000000;
