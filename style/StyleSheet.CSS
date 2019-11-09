@@ -3,6 +3,7 @@ html {
   }
   *, *:before, *:after {
     box-sizing: inherit;
+    font-family: 'Yeon Sung', cursive;;
   }
 
 body 
@@ -20,6 +21,7 @@ h1 {
     font-size: 35px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-left: 285px;
+    margin-top: 16px;
 }
 
 h2 {
@@ -67,8 +69,8 @@ div.menu-navigation-bar{
 }
 
 nav{
-    font-size: 40px;
-    line-height: 60px;
+    font-size: 35px;
+    line-height: 73px;
 }
 
 ul{
