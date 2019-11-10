@@ -130,18 +130,48 @@ footer{
     font-size: 20px;
 }
 
-/* width */
+/*SCROLLBAR*/
 ::-webkit-scrollbar {
     width: 10px;
   }
 
-    /*Track */
 ::-webkit-scrollbar-track {
     background-color: #000000;
   }
   
-  /* Handle */
   ::-webkit-scrollbar-thumb {
     background-color: #008000;
   } 
 
+/*ANIMATION for LEFT MENU*/
+
+.animation1, .animation2, .animation3, .animation4, .animation5{
+animation-name: leftslide;
+animation-duration: 1s;
+}
+
+@keyframes leftslide{
+    from{
+        margin-left: -165px;
+    }
+    to{
+        margin-left: 0px;
+}
+}
+.animation1{
+    animation-delay: 0.1s;
+}
+.animation2{
+    animation-delay: 0.3s;
+}
+
+.animation3{
+    animation-delay: 0.5s;
+}
+
+.animation4{
+    animation-delay: 0.7s;
+}
+.animation5{
+    animation-delay: 0.9s;
+}
